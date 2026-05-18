@@ -1,3 +1,5 @@
+# New version: sizing_mix.py
+
 from openai import OpenAI
 from datetime import datetime
 
